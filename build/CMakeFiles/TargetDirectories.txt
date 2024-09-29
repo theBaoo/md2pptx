@@ -1,3 +1,3 @@
-D:/D/repo/md2pptx/build/CMakeFiles/MarkdownToPPTX.dir
-D:/D/repo/md2pptx/build/CMakeFiles/ALL_BUILD.dir
-D:/D/repo/md2pptx/build/CMakeFiles/ZERO_CHECK.dir
+/Users/thebao/codes/md2pptx/build/CMakeFiles/MarkdownToPPTX.dir
+/Users/thebao/codes/md2pptx/build/CMakeFiles/edit_cache.dir
+/Users/thebao/codes/md2pptx/build/CMakeFiles/rebuild_cache.dir
